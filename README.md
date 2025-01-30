@@ -1,16 +1,4 @@
-# myapp
+# CRUD - Planetas
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplicativo de cadastramento de planetas, feito no Flutter, como atividade solicitada na disciplina de Desenvolvimento de Aplicativos Móveis do programa Talento Tech Paraná.
+O aplicativo contém as funcionalidades de inserir dados de um novo planeta, mostrar uma lista dos planetas já cadastrados, que podem ser excluídos e editados.
